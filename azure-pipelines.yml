@@ -1,3 +1,4 @@
+# Build and deploy using azure pipeline
 trigger:
 - '*'
 
