@@ -1,4 +1,4 @@
-# Build and deploy using azure pipeline
+# Build and deploy using azure pipeline added resouce name
 trigger:
 - '*'
 
