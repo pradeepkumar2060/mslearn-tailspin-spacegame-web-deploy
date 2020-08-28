@@ -1,4 +1,4 @@
-# Build and deploy using azure pipeline added resouce name
+# Build and deploy using azure mult stage pipeline added resouce name
 trigger:
 - '*'
 
