@@ -1,5 +1,5 @@
 # Build and deploy using azure multi stage pipeline added resouce name
-# This example for deploye Test stage 
+# This example for deploye to stage 
 trigger:
 - '*'
 
