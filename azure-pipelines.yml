@@ -1,4 +1,4 @@
-# This Example for Selinum UI Test Case using winows support browser
+# This Example for Selinum UI Test Case using winows support browser like edge
 trigger:
 - '*'
 
