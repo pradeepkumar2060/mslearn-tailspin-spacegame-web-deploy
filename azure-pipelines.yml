@@ -1,4 +1,4 @@
-# This Example for UI Test Case
+# This Example for Selinum UI Test Case
 trigger:
 - '*'
 
